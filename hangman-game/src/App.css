@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0.1rem;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  margin: 1rem 0rem;
+}
