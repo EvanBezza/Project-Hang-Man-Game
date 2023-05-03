@@ -6,7 +6,7 @@
 
 Project Hangman:
 
-Game Overview:
+# Game Overview:
 
 The game hangman is a word guesing game with two or more players. One player (in this case the computer) picks a word and draws a line of dashes, one for every word. The other players must now try to guess the word by guessing one letter at a time. 
 
