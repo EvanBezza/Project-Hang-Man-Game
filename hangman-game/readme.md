@@ -8,11 +8,11 @@ Project Hangman:
 
 Game Overview:
 
-    The game hangman is a word guesing game with two or more players. One player (in this case the computer) picks a word and draws a line of dashes, one for every word. The other players must now try to guess the word by guessing one letter at a time. 
+The game hangman is a word guesing game with two or more players. One player (in this case the computer) picks a word and draws a line of dashes, one for every word. The other players must now try to guess the word by guessing one letter at a time. 
 
-    For each incorrect guess, a piece of the picture is drawn, for every correct guess made, the picture remains the same. If the player mkes the incorrect guess too many times and the image of the hangman get's fully drawn, the game is over and the player loses.
+For each incorrect guess, a piece of the picture is drawn, for every correct guess made, the picture remains the same. If the player mkes the incorrect guess too many times and the image of the hangman get's fully drawn, the game is over and the player loses.
 
-    The player to guess the word before the picture is fully drawn wins.
+The player to guess the word before the picture is fully drawn wins.
 
 Game Rules:
 
